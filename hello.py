@@ -6,3 +6,4 @@ modified dev branch 20200602 09:20
 add something in master branch 20200602 10:11
 
 checkout branch 'cat' and add something 20200602 10:16
+test fetch 20200602 11:47
